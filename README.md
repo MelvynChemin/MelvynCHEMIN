@@ -51,9 +51,9 @@ Long-term, I aim to work on **self-hosted and privacy-focused AI solutions for E
 ---
 
 📫 **Let’s Connect**
-- LinkedIn: [linkedin.com/in/melvynchemin](https://www.linkedin.com/in/melvynchemin)  
-- X (Twitter): [@melvynchemin](https://x.com/melvynchemin)  
-- Email: melvynchemin@proton.me  
+- LinkedIn: [linkedin.com/in/melvyn-chemin](https://www.linkedin.com/in/melvyn-chemin)
+- X (Twitter): [@melvynLearning](https://x.com/melvynLearning)  
+- Email: melvyn.chemin@gmail.com  
 
 ---
 
